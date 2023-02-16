@@ -1,0 +1,15 @@
+/Users/pubudunikaralliyadde/Projects/Deliverable5/Deliverable5/obj/Debug/net7.0/Deliverable5.csproj.AssemblyReference.cache
+/Users/pubudunikaralliyadde/Projects/Deliverable5/Deliverable5/obj/Debug/net7.0/Deliverable5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pubudunikaralliyadde/Projects/Deliverable5/Deliverable5/obj/Debug/net7.0/Deliverable5.AssemblyInfoInputs.cache
+/Users/pubudunikaralliyadde/Projects/Deliverable5/Deliverable5/obj/Debug/net7.0/Deliverable5.AssemblyInfo.cs
+/Users/pubudunikaralliyadde/Projects/Deliverable5/Deliverable5/obj/Debug/net7.0/Deliverable5.csproj.CoreCompileInputs.cache
+/Users/pubudunikaralliyadde/Projects/Deliverable5/Deliverable5/bin/Debug/net7.0/Deliverable5
+/Users/pubudunikaralliyadde/Projects/Deliverable5/Deliverable5/bin/Debug/net7.0/Deliverable5.deps.json
+/Users/pubudunikaralliyadde/Projects/Deliverable5/Deliverable5/bin/Debug/net7.0/Deliverable5.runtimeconfig.json
+/Users/pubudunikaralliyadde/Projects/Deliverable5/Deliverable5/bin/Debug/net7.0/Deliverable5.dll
+/Users/pubudunikaralliyadde/Projects/Deliverable5/Deliverable5/bin/Debug/net7.0/Deliverable5.pdb
+/Users/pubudunikaralliyadde/Projects/Deliverable5/Deliverable5/obj/Debug/net7.0/Deliverable5.dll
+/Users/pubudunikaralliyadde/Projects/Deliverable5/Deliverable5/obj/Debug/net7.0/refint/Deliverable5.dll
+/Users/pubudunikaralliyadde/Projects/Deliverable5/Deliverable5/obj/Debug/net7.0/Deliverable5.pdb
+/Users/pubudunikaralliyadde/Projects/Deliverable5/Deliverable5/obj/Debug/net7.0/Deliverable5.genruntimeconfig.cache
+/Users/pubudunikaralliyadde/Projects/Deliverable5/Deliverable5/obj/Debug/net7.0/ref/Deliverable5.dll
